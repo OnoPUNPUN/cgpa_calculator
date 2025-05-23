@@ -30,14 +30,14 @@ To get a local copy up and running, follow these simple steps.
 
 This project requires Flutter to be installed on your machine.
 
-* Flutter SDK: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+* Flutter SDK: https://flutter.dev/docs/get-started/install
 
 ### Installation
 
 1.  Clone the repo:
 
     ```bash
-    git clone [https://github.com/OnoPUNPUN/cgpa_calculator.git](https://github.com/OnoPUNPUN/cgpa_calculator.git)
+    git clone https://github.com/OnoPUNPUN/cgpa_calculator.git
     ```
 
     (Replace `your_username` with your actual GitHub username and `cgpa_calculator` with your repository name)
@@ -74,4 +74,4 @@ Don't forget to give the project a star! Thanks again!
 
 punpunonodera754@gmail.com
 
-Project Link: [https://github.com/OnoPUNPUN/cgpa_calculator.git](https://github.com/OnoPUNPUN/cgpa_calculator.git)
+Project Link: https://github.com/OnoPUNPUN/cgpa_calculator.git
