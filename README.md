@@ -13,7 +13,7 @@ A simple and intuitive CGPA (Cumulative Grade Point Average) calculator built wi
 
 | Empty State | Courses Added | CGPA Summary |
 |---|---|---|
-| ![Screenshot of the app with no courses added, showing input fields for course name, credits, and mark.](s1.png) | ![Screenshot of the app with three courses (MATH 4, DBMS, IP) added, showing their credits and marks.](s2.png) | ![Screenshot of the CGPA Summary screen, showing total credits and CGPA.](s3.png) |
+| ![Screenshot of the app with no courses added, showing input fields for course name, credits, and mark.](screenshot\s1.png) | ![Screenshot of the app with three courses (MATH 4, DBMS, IP) added, showing their credits and marks.](screenshot\s2.png) | ![Screenshot of the CGPA Summary screen, showing total credits and CGPA.](screenshot\s3.png) |
 
 ## How to Use
 
